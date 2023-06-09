@@ -7,7 +7,7 @@ I believe in the power of teaching yourself about what your passions. I'm thankf
 > ◻ Currently specializing in Full Stack Web Development. </br>
 > ◻ In my free time I enjoy expanding my knowledge about Graphic Design, UX/UI, Product Design and Fashion Design. </br>
 > ◻ Learning languages (coding & also linguistics) is fascinating. </br>
-> ◻ Started pursuing a career in Economy and International Business, as well as a career in Audio-visual Communication but it wasn't enough to fulfill my inquisitiveness. </br>
+> ◻ Started a career in Economy and International Business, as well as Audio-visual Communication. </br>
 
 ## 🛠 Toolbox
 
